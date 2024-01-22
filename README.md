@@ -57,5 +57,4 @@ Built on Next.js 14, the events application stands as a comprehensive, full-stac
 👉 **Event Orders:** Comprehensive order management system, providing a clear overview of all event-related transactions.
 
 👉 **Search Orders:** Quick and efficient search functionality for orders, facilitating easy tracking and management.
-
 and many more, including code architecture and reusability.
