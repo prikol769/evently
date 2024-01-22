@@ -31,7 +31,7 @@ Built on Next.js 14, the events application stands as a comprehensive, full-stac
 - Zod
 - React Hook Form
 - Shadcn
-- uploadthing
+- Uploadthing
 
 ## <a name="features">🔋 Features</a>
 
